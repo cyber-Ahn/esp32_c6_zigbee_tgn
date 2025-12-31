@@ -10,7 +10,7 @@ Zigbee Modul with mor Options
   + LIGHT
 
 Arduino IDE Settings:
-+ Board = ESP32C& Dev Modul
++ Board = ESP32C6 Dev Modul
 + USB CDC on Boot = Enable
 + Erase all Flash befor Sketch Upload = Enable
 + Partitions Scheme = Zigbee ZCZR 4MB with spiffs
